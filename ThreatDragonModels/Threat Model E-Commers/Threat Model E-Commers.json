@@ -1,0 +1,34 @@
+{
+  "version": "2.6.2",
+  "release_version": "-",
+  "released_at": "2026-09-23",
+  "summary": {
+    "title": "Threat Model E-Commers",
+    "owner": "Shofie Trihapsari",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Syifa Sakinah Sofyan"
+      },
+      {
+        "name": "Alena Alfiana"
+      },
+      {
+        "name": "Zihan Diva"
+      },
+      {
+        "name": "Alya Dwi Cahyani"
+      },
+      {
+        "name": "Yulia Fitri"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "-",
+    "threatTop": 0
+  }
+}
